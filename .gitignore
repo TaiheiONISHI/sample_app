@@ -7,3 +7,4 @@
 /spring/*.pid
 /Procfile
 /.rubocop.yml
+/TESTOPTS*
